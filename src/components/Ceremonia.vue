@@ -4,7 +4,7 @@
         <div class="text-gray-600 mt-5 md:mt-10">
             Iglesia San Juan Bautista
         </div>
-        <a href="https://goo.gl/maps/JFPnnjJ3RdfYsRBW9" target="_blank">
+        <a href="https://goo.gl/maps/JFPnnjJ3RdfYsRBW9" target="_blank" class="animate-pulse transition">
             <i class="fa-solid fa-location-dot text-5xl md:text-7xl text-green-800 mt-5"></i>
         </a>
         <div class="text-gray-600 mt-2 md:mt-5">

@@ -1,6 +1,6 @@
 
 <template>
-    <header class="bg-header bg-cover bg-center h-screen flex flex-col justify-between">
+    <header class="bg-header bg-cover bg-center h-screen flex flex-col justify-between" id="header">
         <nav class="contenedor p-5 flex flex-col md:flex-row items-center justify-center gap-2 md:gap-10">
             <a href="#" class="text-white text-sm">Home</a>
             <a href="#ceremonia" class="text-white text-sm">Ceremonia</a>

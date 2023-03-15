@@ -21,5 +21,8 @@
                 12:00 PM
             </div>
         </div>
+        <div class="animate-pulse transition mt-5">
+            <i class="fa-solid fa-church text-gray-700 text-3xl"></i>
+        </div>
     </div>
 </template>

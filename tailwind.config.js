@@ -7,7 +7,8 @@ module.exports = {
   theme: {
     extend: {
       backgroundImage: {
-        'header': "url('./src/assets/header.jpg')"
+        'header': "url('./src/assets/header.jpg')",
+        'footer': "url('./src/assets/header.jpg')",
       },
       fontFamily: {
         sans: ['Montserrat'],

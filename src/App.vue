@@ -6,6 +6,7 @@ import Fiesta from './components/Fiesta.vue';
 import MesaRegalos from './components/MesaRegalos.vue';
 import Hoteles from './components/Hoteles.vue';
 import Confirmation from './components/Confirmation.vue';
+import Footer from './components/Footer.vue';
 
 
 </script>
@@ -18,6 +19,7 @@ import Confirmation from './components/Confirmation.vue';
   <MesaRegalos />
   <Hoteles/>
   <Confirmation/>
+  <Footer/>
 </template>
 
 

@@ -8,11 +8,13 @@ module.exports = {
     extend: {
       backgroundImage: {
         'header': "url('./src/assets/header.jpg')",
-        'footer': "url('./src/assets/header.jpg')",
+        'footer': "url('./src/assets/footer.jpg')",
       },
       fontFamily: {
         sans: ['Montserrat'],
-        serif: ['Great Vibes']
+        serif: ['Great Vibes'],
+        mono: ['Allura'],
+        cursiva: ['Tangerine'],
     },
     },
   },
